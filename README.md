@@ -1,0 +1,2 @@
+# poetene
+Informatikk prosjektarbeid
